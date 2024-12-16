@@ -76,3 +76,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+<user-permission android:name="android.permission.SET_WALLPAPER"/>
+(androidManifest.xml) in app---manifests after xmls
